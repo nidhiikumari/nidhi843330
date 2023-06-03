@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nidhi Kumari</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhiikumari)](https://github.com/anuraghazra/github-readme-stats)
+
 - 💬 Ask me about **Javascript, React, Typescript, Next JS**
 
 - ⚡ Fun fact **I am Funny**
